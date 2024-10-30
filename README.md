@@ -2,7 +2,8 @@
 ![{E2EF4D84-9EC1-41AD-802B-713FB6B359C3}](https://github.com/user-attachments/assets/bab8b70e-d4c3-4ee8-8c00-67deb40e181e)
 
 
-HumStat is a real-time trading analytics dashboard that visualizes trading data from log files. It provides insights into trading activities, including order history, price trends, and performance metrics.
+Beta.
+HumStat is a real-time trading analytics dashboard that visualizes trading data from Hummingbotlog files. It provides insights into trading activities, including order history, price trends, and performance metrics.
 
 ![HumStat Dashboard](screenshot.png)
 
@@ -109,8 +110,8 @@ Supported event types:
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed #Opensource
 
 ## Support
 
-For support, please open an issue in the GitHub repository.
+No Support will be given at present.   
