@@ -16,7 +16,7 @@ HumStat is a real-time trading analytics dashboard that visualizes trading data 
 ## Authors
 
 **Project Lead:**
-- Your Name - Project Architect & Lead Designer
+- Regard Vermeulen - Project Architect & Lead Designer
 
 **Development:**
 - Bolt - AI Development Assistant
