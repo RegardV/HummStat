@@ -1,4 +1,6 @@
 # HumStat - Trading Analytics Dashboard
+![{E2EF4D84-9EC1-41AD-802B-713FB6B359C3}](https://github.com/user-attachments/assets/bab8b70e-d4c3-4ee8-8c00-67deb40e181e)
+
 
 HumStat is a real-time trading analytics dashboard that visualizes trading data from log files. It provides insights into trading activities, including order history, price trends, and performance metrics.
 
