@@ -1,4 +1,5 @@
 # HumStat - Trading Analytics Dashboard
+Untested. But the idea is to take the hummingbot logfile path and transaction log file and feed it into HummStat. Setup as a container on the same system where the logfile is updated by Hummingbot
 ![{E2EF4D84-9EC1-41AD-802B-713FB6B359C3}](https://github.com/user-attachments/assets/bab8b70e-d4c3-4ee8-8c00-67deb40e181e)
 
 
